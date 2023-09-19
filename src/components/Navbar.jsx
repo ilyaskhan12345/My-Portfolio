@@ -92,7 +92,7 @@ const Navbar = () => {
                   ml-[-80px] hover:ml-[-10px] duration-500 bg-[#333333]'>
                     
                 <a className='flex justify-between items-center width-full text-gray-300'
-                 href='#'> Github < FaGithub size={30} />
+                 href='https://github.com/ilyaskhan12345'> Github < FaGithub size={30} />
                 </a>
               </li>
 
@@ -100,7 +100,7 @@ const Navbar = () => {
                   ml-[-75px] hover:ml-[-10px] duration-500 bg-[#6fc2b0] '>
                     
                 <a className='flex justify-between items-center width-full text-gray-300'
-                 href='#'> Email < HiOutlineMail size={30} />
+                 href='mailto:ilyas940170@gmail.com'> Email < HiOutlineMail size={30} />
                 </a>
               </li>
 

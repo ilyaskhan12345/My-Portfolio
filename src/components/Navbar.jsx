@@ -84,7 +84,7 @@ const Navbar = () => {
                   ml-[-100px] hover:ml-[-10px] duration-500 bg-blue-600 '>
                     
                 <a className='flex justify-between items-center width-full text-gray-300'
-                 href='#'> LinkedIn < FaLinkedin size={30} />
+                 href='https://www.linkedin.com/in/muhammad-ilyas-441656268/'> LinkedIn < FaLinkedin size={30} />
                 </a>
               </li>
 

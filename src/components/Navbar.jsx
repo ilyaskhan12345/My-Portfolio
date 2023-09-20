@@ -108,7 +108,7 @@ const Navbar = () => {
                   ml-[-95px] hover:ml-[-10px] duration-500 bg-[#565f69] '>
                     
                 <a className='flex justify-between items-center width-full text-gray-300'
-                 href='https://docs.google.com/document/d/1M99WoViVj4eEIzQ8ZjswWzQyzety_el2vcjNjrh7dJI/edit?usp=sharing'> Resume< BsFillPersonLinesFill size={30} />
+                 href='https://drive.google.com/file/d/1v_TwqVTj3ES-ZOZfTCGZNumihaT2Khvb/view?usp=sharing'> Resume< BsFillPersonLinesFill size={30} />
                 </a>
               </li>
 

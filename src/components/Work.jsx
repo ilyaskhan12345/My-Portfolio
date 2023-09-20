@@ -5,6 +5,7 @@ import food from "../assets/food.png";
 import commerce from "../assets/commerce.png"
 // import '../index.css';
 
+
 const Work = () => {
   return (
     <div name='work' className="w-full  text-gray-300 bg-[#0a192f] ">
